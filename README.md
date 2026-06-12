@@ -1,2 +1,2 @@
 # JAX-MLIP
-Machine Learning Interatomic Potential in JAX
+Machine Learning Interatomic Potential in differential programming JAX
